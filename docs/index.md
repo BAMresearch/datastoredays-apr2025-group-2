@@ -4,16 +4,12 @@ hide: toc
 
 # Data modeling and ontologies implementation in the BAM Data Store
 
-The goal of this documentation page is to provide a central place to get information about what is and was done during the BAM Data Store Days for the Group 2. This event took place from Wednesday, April 9, 2025, to Friday, April 11, 2025.
-
-The focus of Group 2 will be to work with the BAM Masterdata definitions, improving them if possible and extending them when necessary, identifying commonalities amongst participants, and working together towards an higher-level ontology implementation for such definitions.
+The goal of this documentation page is to provide a place for the information presented during the BAM Data Store Days for the Group 2. This event took place from Wednesday, April 9, 2025, to Friday, April 11, 2025. The focus of Group 2 is to work with the BAM Masterdata definitions, improving them if possible and extending them when necessary, identifying commonalities amongst participants, and working together towards an higher-level ontology implementation for such definitions.
 
 
 ## Preparation
 
-In order to be ready for this event, we ask the participants to prepare an example use-case of the workflows that they typically perform during their scientific day life.
-
-In this group, it is also necessary to have a minimal knowledge of Python and Github. We list here the links which will be used during the event:
+In order to be ready for this event, we ask the participants to prepare an example use-case of the workflows that they typically perform during their scientific activities. In this group, it is necessary to have a minimal knowledge of Python and Github. We list here the resources which will be used during the event:
 
 - [BAMresearch/bam-masterdata](https://github.com/BAMresearch/bam-masterdata): The Github repository containing the main BAM Masterdata definitions as well as some important utility functions.
 - [BAMresearch/masterdata-template](https://github.com/BAMresearch/masterdata-template): A template Github repository to be used when the BAM Masterdata definitions need to be extended.
@@ -25,5 +21,5 @@ In this group, it is also necessary to have a minimal knowledge of Python and Gi
 
 ## Contact
 
-If you have further questions, please contact [datastore@bam.de](mailto:datastore@bam.de). Alternatively, you can also reach out to the organizers of Group 2: Carlos Madariaga and Jose Pizarro Blanco.
+If you have further questions, please contact [datastore@bam.de](mailto:datastore@bam.de). You can also reach out to the organizers of Group 2: Carlos Madariaga and Jose Pizarro Blanco.
 
