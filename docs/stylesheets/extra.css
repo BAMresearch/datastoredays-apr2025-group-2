@@ -34,6 +34,7 @@
     /* BAM colors */
     --bam-weiss: rgb(243, 243, 243);
     --bam-weiss-dark: rgb(238, 241, 243);
+    --bam-weiss-darker: rgb(227, 231, 231);
     --bam-schwarz-100: rgb(0, 40, 50);
     --bam-schwarz-80: rgb(50, 84, 99);
     --bam-schwarz-60: rgb(95, 123, 137);
@@ -184,4 +185,8 @@
     transform: scale(2);
     z-index: 0;
     cursor: zoom-out
+}
+
+.md-typeset .md-code__content {
+    background-color: var(--bam-weiss-darker);
 }
