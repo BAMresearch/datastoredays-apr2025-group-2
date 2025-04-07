@@ -121,9 +121,9 @@ Depending on the format chosen (Excel, Python, RDF/XML), you can follow the exam
 
 ### Check consistency
 
-One of the main API functions of `bam-masterdata` is the `checker`. This functionality is integrated in the Github workflow actions of the repository created before. Its main role is to check that the defined object types, property types, and vocabularies are consistent and there are no conflicts in the repository itself but also with respect to the generic types defined in `bam-masterdata`.
+One of the main API functions of `bam-masterdata` is the `checker`. This functionality is integrated in the Github workflow actions of the repository created before. Its main role is to check that the defined object types, property types, and vocabularies are consistent and there are no conflicts in the repository itself but also with respect to the generic types defined in `bam-masterdata`. It also validates the Masterdata definitions format and ensures that it is compliant with the openBIS database structure.
 
-We also deployed a website to check the Masterdata definitions in an Excel. You can visit ... TODO add link! and upload an Excel file. Note that this website is a bit outdated and will soon be improved with the current `check` API functionality.
+We also deployed a website to check the Masterdata definitions in an Excel. You can visit the [Checker website](https://mdc.datastore.bam.de/) and upload an Excel file. Note that this website is a bit outdated and will soon be improved with the current `check` API functionality.
 
 
 ## Collaborate and define generic entity types
