@@ -1,5 +1,5 @@
 # Data Store Days - Group 2
-A repository containing the documentation of the Group 2 for the Data Store Days organized in BAM on 9-11 April 2025.
+A repository containing the documentation of the Group 2 for the Data Store Days organized in BAM on April, 9 to 11, 2025.
 
 
 
